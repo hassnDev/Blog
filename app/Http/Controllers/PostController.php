@@ -88,4 +88,8 @@ class PostController extends Controller
           $post->delete();
           return to_route('posts.index');
      }
+
+     public function hello()
+     {
+          ehoc "hellow word"
 }

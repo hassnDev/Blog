@@ -91,5 +91,5 @@ class PostController extends Controller
 
      public function hello()
      {
-          ehoc "hellow word"
+          ehoc "hello word"
 }
